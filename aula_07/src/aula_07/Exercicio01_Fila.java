@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Exercicio01_Pilha {
+public class Exercicio01_Fila {
 
 	public static void main(String[] args) {
 
