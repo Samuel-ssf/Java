@@ -1,7 +1,7 @@
 package triatleta;
 
 public abstract class Pessoa {
-
+    
 	private String nome;
 
 	public Pessoa(String nome) {
@@ -18,6 +18,7 @@ public abstract class Pessoa {
 	}
 	
 	public abstract void cansou();
+	
 	
 	public void visualizar() {
 		System.out.println("***************************************");
