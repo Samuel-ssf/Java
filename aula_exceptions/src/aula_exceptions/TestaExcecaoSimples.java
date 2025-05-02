@@ -1,7 +1,7 @@
 package aula_exceptions;
 
 public class TestaExcecaoSimples {
-//
+
 	public static void main(String[] args) throws ExcecaoSimples {
 
 		String nomes[] = { "João", "Maria", "Pedro", "Manuela" };
